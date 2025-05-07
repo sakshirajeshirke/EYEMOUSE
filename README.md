@@ -28,12 +28,6 @@ You can say the following commands:
 - `"move up"`, `"move down"`, `"move left"`, `"move right"`
 - `"left click"`, `"right click"`, `"double click"`
 
-## Requirements
-
-- Python 3.7+
-- Webcam
-- Microphone
-
 ## Installation
 
 1. **Clone the repository** or copy the script.
