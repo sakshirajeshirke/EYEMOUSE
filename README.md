@@ -51,7 +51,7 @@ pip install opencv-python mediapipe pyautogui numpy pynput SpeechRecognition pya
 Run the script using:
 
 ```bash
-python eye_voice_mouse.py
+python app.py
 ```
 
 ## Controls
